@@ -1,0 +1,18 @@
+.playButton{
+    height:70px;
+    width:190px;
+    border-radius:10px;
+    font-size:30px;
+}
+
+.heading{
+    height:90px;
+    width:100%;
+    font-size:23px;
+}
+
+canvas{
+    margin-top:100px;
+    border-radius:10px;
+    border:10px solid rgb(255, 255, 255);
+}
